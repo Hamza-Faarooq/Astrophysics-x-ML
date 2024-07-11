@@ -1,8 +1,8 @@
- # Astrophysics-x-ML
+ # ASTROPHYSICS-x-ML
  ****
 
 # PROJECT1
-## Astronomical Object Classification
+## ASTRONOMICAL OBJECT CLASSIFICATION
 
 This project aims to classify astronomical objects into different categories such as stars, galaxies, and quasars using machine learning techniques. We use a dataset containing features like absolute magnitude, redshift, surface brightness, stellar mass, and age to train a Random Forest classifier.
 
@@ -52,7 +52,7 @@ To run this project, you need to have Python installed along with the necessary 
 ****
 
 # PROJECT 2
-## Black Holes and Quasars Classification with Machine Learning
+## BLACK HOLES AND QUASAR CLASSIFICATION WITH ML
 
 ### Overview
 
