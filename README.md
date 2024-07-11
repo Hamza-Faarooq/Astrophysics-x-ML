@@ -1,6 +1,6 @@
  # Astrophysics-x-ML
  ****
- <BR>
+ <br>
 # PROJECT1
 ## Astronomical Object Classification
 
