@@ -1,4 +1,4 @@
- # Astronomical Object Classification
+  # Astronomical Object Classification
 
 This project aims to classify astronomical objects into different categories such as stars, galaxies, and quasars using machine learning techniques. We use a dataset containing features like absolute magnitude, redshift, surface brightness, stellar mass, and age to train a Random Forest classifier.
 
